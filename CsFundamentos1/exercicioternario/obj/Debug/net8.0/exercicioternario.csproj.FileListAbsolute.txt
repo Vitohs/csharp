@@ -1,0 +1,14 @@
+E:\csharp\CsFundamentos1\exercicioternario\bin\Debug\net8.0\exercicioternario.exe
+E:\csharp\CsFundamentos1\exercicioternario\bin\Debug\net8.0\exercicioternario.deps.json
+E:\csharp\CsFundamentos1\exercicioternario\bin\Debug\net8.0\exercicioternario.runtimeconfig.json
+E:\csharp\CsFundamentos1\exercicioternario\bin\Debug\net8.0\exercicioternario.dll
+E:\csharp\CsFundamentos1\exercicioternario\bin\Debug\net8.0\exercicioternario.pdb
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.AssemblyInfoInputs.cache
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.AssemblyInfo.cs
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.csproj.CoreCompileInputs.cache
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.dll
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\refint\exercicioternario.dll
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.pdb
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\exercicioternario.genruntimeconfig.cache
+E:\csharp\CsFundamentos1\exercicioternario\obj\Debug\net8.0\ref\exercicioternario.dll

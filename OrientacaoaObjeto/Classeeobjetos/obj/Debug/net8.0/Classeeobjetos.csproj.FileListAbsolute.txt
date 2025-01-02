@@ -1,0 +1,14 @@
+E:\csharp\Classeeobjetos\bin\Debug\net8.0\Classeeobjetos.exe
+E:\csharp\Classeeobjetos\bin\Debug\net8.0\Classeeobjetos.deps.json
+E:\csharp\Classeeobjetos\bin\Debug\net8.0\Classeeobjetos.runtimeconfig.json
+E:\csharp\Classeeobjetos\bin\Debug\net8.0\Classeeobjetos.dll
+E:\csharp\Classeeobjetos\bin\Debug\net8.0\Classeeobjetos.pdb
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.AssemblyInfoInputs.cache
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.AssemblyInfo.cs
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.csproj.CoreCompileInputs.cache
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.dll
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\refint\Classeeobjetos.dll
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.pdb
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\Classeeobjetos.genruntimeconfig.cache
+E:\csharp\Classeeobjetos\obj\Debug\net8.0\ref\Classeeobjetos.dll

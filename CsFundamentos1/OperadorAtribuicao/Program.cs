@@ -1,0 +1,10 @@
+﻿Console.WriteLine("#Operadores de atribuição#\n");
+int x; 
+Console.WriteLine("Digite um numero ae: ");
+x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(x);
+Console.WriteLine(x += 10);
+Console.WriteLine(x *= 6);
+Console.WriteLine(x %= 9);
+Console.WriteLine(x -= 3);
+Console.WriteLine(x /= 3);

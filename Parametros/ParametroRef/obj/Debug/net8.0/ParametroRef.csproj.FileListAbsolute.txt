@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\bin\Debug\net8.0\ParametroRef.exe
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\bin\Debug\net8.0\ParametroRef.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\bin\Debug\net8.0\ParametroRef.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\bin\Debug\net8.0\ParametroRef.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\bin\Debug\net8.0\ParametroRef.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\refint\ParametroRef.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ParametroRef.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametroRef\obj\Debug\net8.0\ref\ParametroRef.dll

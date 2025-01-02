@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\csharp\\exercicios2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55EA359C-833E-4CAE-9285-573418B9B419}|resenha\\resenha.csproj|e:\\csharp\\exercicios2\\resenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55EA359C-833E-4CAE-9285-573418B9B419}|resenha\\resenha.csproj|solutionrelative:resenha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81616C63-94D8-40C3-A1D8-D33F1E61C05D}|part 2\\part 2.csproj|e:\\csharp\\exercicios2\\part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81616C63-94D8-40C3-A1D8-D33F1E61C05D}|part 2\\part 2.csproj|solutionrelative:part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC301D8-5995-42C1-B6CD-A5097317F4F5}|exercicios2\\exercicios2.csproj|e:\\csharp\\exercicios2\\exercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC301D8-5995-42C1-B6CD-A5097317F4F5}|exercicios2\\exercicios2.csproj|solutionrelative:exercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicios2\\resenha\\Program.cs",
+              "RelativeDocumentMoniker": "resenha\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicios2\\resenha\\Program.cs*",
+              "RelativeToolTip": "resenha\\Program.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:38:16.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicios2\\part 2\\Program.cs",
+              "RelativeDocumentMoniker": "part 2\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicios2\\part 2\\Program.cs",
+              "RelativeToolTip": "part 2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:47:14.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicios2\\exercicios2\\Program.cs",
+              "RelativeDocumentMoniker": "exercicios2\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicios2\\exercicios2\\Program.cs",
+              "RelativeToolTip": "exercicios2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T23:32:55.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

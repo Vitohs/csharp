@@ -1,0 +1,14 @@
+E:\csharp\exercicio\tres\bin\Debug\net8.0\tres.exe
+E:\csharp\exercicio\tres\bin\Debug\net8.0\tres.deps.json
+E:\csharp\exercicio\tres\bin\Debug\net8.0\tres.runtimeconfig.json
+E:\csharp\exercicio\tres\bin\Debug\net8.0\tres.dll
+E:\csharp\exercicio\tres\bin\Debug\net8.0\tres.pdb
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.AssemblyInfoInputs.cache
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.AssemblyInfo.cs
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.csproj.CoreCompileInputs.cache
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.dll
+E:\csharp\exercicio\tres\obj\Debug\net8.0\refint\tres.dll
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.pdb
+E:\csharp\exercicio\tres\obj\Debug\net8.0\tres.genruntimeconfig.cache
+E:\csharp\exercicio\tres\obj\Debug\net8.0\ref\tres.dll

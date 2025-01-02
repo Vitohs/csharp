@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\csharp\\CsFundamentos1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2254ED21-D9B0-434F-BD2B-D5BC1DEB3CAB}|exercicioternario\\exercicioternario.csproj|e:\\csharp\\csfundamentos1\\exercicioternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2254ED21-D9B0-434F-BD2B-D5BC1DEB3CAB}|exercicioternario\\exercicioternario.csproj|solutionrelative:exercicioternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C7CA2-C419-4C00-BFC1-8252F2104EE6}|OperadorTernario\\OperadorTernario.csproj|e:\\csharp\\csfundamentos1\\operadorternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C7CA2-C419-4C00-BFC1-8252F2104EE6}|OperadorTernario\\OperadorTernario.csproj|solutionrelative:operadorternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459023E1-1DCE-4B1F-8105-E59CD06B2A9E}|OperadorAtribuicao\\OperadorAtribuicao.csproj|e:\\csharp\\csfundamentos1\\operadoratribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459023E1-1DCE-4B1F-8105-E59CD06B2A9E}|OperadorAtribuicao\\OperadorAtribuicao.csproj|solutionrelative:operadoratribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13162AF6-2A65-4A67-976E-6CAD55F65E79}|ConversaoDeDados\\ConversaoDeDados.csproj|e:\\csharp\\csfundamentos1\\conversaodedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13162AF6-2A65-4A67-976E-6CAD55F65E79}|ConversaoDeDados\\ConversaoDeDados.csproj|solutionrelative:conversaodedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7BB03-B752-4197-8879-437D92E44239}|SaidaDeDados\\SaidaDeDados.csproj|e:\\csharp\\csfundamentos1\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F7BB03-B752-4197-8879-437D92E44239}|SaidaDeDados\\SaidaDeDados.csproj|solutionrelative:saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA0194A-BDF1-4AD5-9B62-942BCE272C2D}|exercicio1\\exercicio1.csproj|e:\\csharp\\csfundamentos1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA0194A-BDF1-4AD5-9B62-942BCE272C2D}|exercicio1\\exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622B62AB-E3E2-4840-B52E-30DB0B1AE762}|TiposDeDados1\\TiposDeDados1.csproj|e:\\csharp\\csfundamentos1\\tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622B62AB-E3E2-4840-B52E-30DB0B1AE762}|TiposDeDados1\\TiposDeDados1.csproj|solutionrelative:tiposdedados1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\exercicioternario\\Program.cs",
+              "RelativeDocumentMoniker": "exercicioternario\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\exercicioternario\\Program.cs",
+              "RelativeToolTip": "exercicioternario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T18:54:24.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\OperadorTernario\\Program.cs",
+              "RelativeDocumentMoniker": "OperadorTernario\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\OperadorTernario\\Program.cs",
+              "RelativeToolTip": "OperadorTernario\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:30:44.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\OperadorAtribuicao\\Program.cs",
+              "RelativeDocumentMoniker": "OperadorAtribuicao\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\OperadorAtribuicao\\Program.cs",
+              "RelativeToolTip": "OperadorAtribuicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:41:33.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\ConversaoDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "ConversaoDeDados\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\ConversaoDeDados\\Program.cs",
+              "RelativeToolTip": "ConversaoDeDados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:24:56.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\SaidaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "SaidaDeDados\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\SaidaDeDados\\Program.cs",
+              "RelativeToolTip": "SaidaDeDados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:52:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio1\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\exercicio1\\Program.cs",
+              "RelativeToolTip": "exercicio1\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:23:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\CsFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados1\\Program.cs",
+              "ToolTip": "E:\\csharp\\CsFundamentos1\\TiposDeDados1\\Program.cs",
+              "RelativeToolTip": "TiposDeDados1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T20:42:32.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\csharp\forzada\bin\Debug\net8.0\forzada.exe
+E:\csharp\forzada\bin\Debug\net8.0\forzada.deps.json
+E:\csharp\forzada\bin\Debug\net8.0\forzada.runtimeconfig.json
+E:\csharp\forzada\bin\Debug\net8.0\forzada.dll
+E:\csharp\forzada\bin\Debug\net8.0\forzada.pdb
+E:\csharp\forzada\obj\Debug\net8.0\forzada.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\forzada\obj\Debug\net8.0\forzada.AssemblyInfoInputs.cache
+E:\csharp\forzada\obj\Debug\net8.0\forzada.AssemblyInfo.cs
+E:\csharp\forzada\obj\Debug\net8.0\forzada.csproj.CoreCompileInputs.cache
+E:\csharp\forzada\obj\Debug\net8.0\forzada.dll
+E:\csharp\forzada\obj\Debug\net8.0\refint\forzada.dll
+E:\csharp\forzada\obj\Debug\net8.0\forzada.pdb
+E:\csharp\forzada\obj\Debug\net8.0\forzada.genruntimeconfig.cache
+E:\csharp\forzada\obj\Debug\net8.0\ref\forzada.dll

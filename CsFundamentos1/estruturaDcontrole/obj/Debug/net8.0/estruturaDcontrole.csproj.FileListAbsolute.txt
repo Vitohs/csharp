@@ -1,0 +1,14 @@
+E:\csharp\estruturaDcontrole\bin\Debug\net8.0\estruturaDcontrole.exe
+E:\csharp\estruturaDcontrole\bin\Debug\net8.0\estruturaDcontrole.deps.json
+E:\csharp\estruturaDcontrole\bin\Debug\net8.0\estruturaDcontrole.runtimeconfig.json
+E:\csharp\estruturaDcontrole\bin\Debug\net8.0\estruturaDcontrole.dll
+E:\csharp\estruturaDcontrole\bin\Debug\net8.0\estruturaDcontrole.pdb
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.AssemblyInfoInputs.cache
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.AssemblyInfo.cs
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.csproj.CoreCompileInputs.cache
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.dll
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\refint\estruturaDcontrole.dll
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.pdb
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\estruturaDcontrole.genruntimeconfig.cache
+E:\csharp\estruturaDcontrole\obj\Debug\net8.0\ref\estruturaDcontrole.dll

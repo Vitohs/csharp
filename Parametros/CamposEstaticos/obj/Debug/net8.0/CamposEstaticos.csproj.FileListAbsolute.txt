@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\bin\Debug\net8.0\CamposEstaticos.exe
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\bin\Debug\net8.0\CamposEstaticos.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\bin\Debug\net8.0\CamposEstaticos.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\bin\Debug\net8.0\CamposEstaticos.dll
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\bin\Debug\net8.0\CamposEstaticos.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.dll
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\refint\CamposEstaticos.dll
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\CamposEstaticos.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\CamposEstaticos\obj\Debug\net8.0\ref\CamposEstaticos.dll

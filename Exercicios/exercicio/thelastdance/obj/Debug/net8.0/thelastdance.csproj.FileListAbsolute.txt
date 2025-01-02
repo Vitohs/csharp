@@ -1,0 +1,14 @@
+E:\csharp\exercicio\thelastdance\bin\Debug\net8.0\thelastdance.exe
+E:\csharp\exercicio\thelastdance\bin\Debug\net8.0\thelastdance.deps.json
+E:\csharp\exercicio\thelastdance\bin\Debug\net8.0\thelastdance.runtimeconfig.json
+E:\csharp\exercicio\thelastdance\bin\Debug\net8.0\thelastdance.dll
+E:\csharp\exercicio\thelastdance\bin\Debug\net8.0\thelastdance.pdb
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.AssemblyInfoInputs.cache
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.AssemblyInfo.cs
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.csproj.CoreCompileInputs.cache
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.dll
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\refint\thelastdance.dll
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.pdb
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\thelastdance.genruntimeconfig.cache
+E:\csharp\exercicio\thelastdance\obj\Debug\net8.0\ref\thelastdance.dll

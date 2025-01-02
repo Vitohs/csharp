@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\bin\Debug\net8.0\ReferenciaOut.exe
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\bin\Debug\net8.0\ReferenciaOut.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\bin\Debug\net8.0\ReferenciaOut.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\bin\Debug\net8.0\ReferenciaOut.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\bin\Debug\net8.0\ReferenciaOut.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\refint\ReferenciaOut.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ReferenciaOut.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ReferenciaOut\obj\Debug\net8.0\ref\ReferenciaOut.dll

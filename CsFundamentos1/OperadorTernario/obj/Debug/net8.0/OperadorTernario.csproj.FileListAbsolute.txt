@@ -1,0 +1,14 @@
+E:\csharp\CsFundamentos1\OperadorTernario\bin\Debug\net8.0\OperadorTernario.exe
+E:\csharp\CsFundamentos1\OperadorTernario\bin\Debug\net8.0\OperadorTernario.deps.json
+E:\csharp\CsFundamentos1\OperadorTernario\bin\Debug\net8.0\OperadorTernario.runtimeconfig.json
+E:\csharp\CsFundamentos1\OperadorTernario\bin\Debug\net8.0\OperadorTernario.dll
+E:\csharp\CsFundamentos1\OperadorTernario\bin\Debug\net8.0\OperadorTernario.pdb
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfoInputs.cache
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfo.cs
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.csproj.CoreCompileInputs.cache
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.dll
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\refint\OperadorTernario.dll
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.pdb
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\OperadorTernario.genruntimeconfig.cache
+E:\csharp\CsFundamentos1\OperadorTernario\obj\Debug\net8.0\ref\OperadorTernario.dll

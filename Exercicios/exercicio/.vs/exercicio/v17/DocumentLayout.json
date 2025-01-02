@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\csharp\\exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B822FEF0-40B8-42E9-934E-38398DD0F239}|unomas\\unomas.csproj|e:\\csharp\\exercicio\\unomas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B822FEF0-40B8-42E9-934E-38398DD0F239}|unomas\\unomas.csproj|solutionrelative:unomas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55414BDD-E637-4C4C-B3BF-AA0588C3044F}|thelastdance\\thelastdance.csproj|e:\\csharp\\exercicio\\thelastdance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55414BDD-E637-4C4C-B3BF-AA0588C3044F}|thelastdance\\thelastdance.csproj|solutionrelative:thelastdance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\csharp\\exercicio\\tres\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tres\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\csharp\\exercicio\\tercera\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tercera\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\csharp\\exercicio\\primera\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:primera\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\csharp\\exercicio\\dois espada\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dois espada\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\unomas\\Program.cs",
+              "RelativeDocumentMoniker": "unomas\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\unomas\\Program.cs",
+              "RelativeToolTip": "unomas\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T00:17:24.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\thelastdance\\Program.cs",
+              "RelativeDocumentMoniker": "thelastdance\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\thelastdance\\Program.cs",
+              "RelativeToolTip": "thelastdance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T23:47:56.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\tres\\Program.cs",
+              "RelativeDocumentMoniker": "tres\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\tres\\Program.cs",
+              "RelativeToolTip": "tres\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:23:34.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\tercera\\Program.cs",
+              "RelativeDocumentMoniker": "tercera\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\tercera\\Program.cs",
+              "RelativeToolTip": "tercera\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:12:51.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\dois espada\\Program.cs",
+              "RelativeDocumentMoniker": "dois espada\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\dois espada\\Program.cs",
+              "RelativeToolTip": "dois espada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T01:46:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\exercicio\\primera\\Program.cs",
+              "RelativeDocumentMoniker": "primera\\Program.cs",
+              "ToolTip": "E:\\csharp\\exercicio\\primera\\Program.cs",
+              "RelativeToolTip": "primera\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T22:34:30.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

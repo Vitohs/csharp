@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\bin\Debug\net8.0\Projetocar.exe
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\bin\Debug\net8.0\Projetocar.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\bin\Debug\net8.0\Projetocar.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\bin\Debug\net8.0\Projetocar.dll
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\bin\Debug\net8.0\Projetocar.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.dll
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\refint\Projetocar.dll
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\Projetocar.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\Projetocar\obj\Debug\net8.0\ref\Projetocar.dll

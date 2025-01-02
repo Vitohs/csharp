@@ -1,0 +1,14 @@
+D:\csharp\metodocomretorno\bin\Debug\net8.0\metodocomretorno.exe
+D:\csharp\metodocomretorno\bin\Debug\net8.0\metodocomretorno.deps.json
+D:\csharp\metodocomretorno\bin\Debug\net8.0\metodocomretorno.runtimeconfig.json
+D:\csharp\metodocomretorno\bin\Debug\net8.0\metodocomretorno.dll
+D:\csharp\metodocomretorno\bin\Debug\net8.0\metodocomretorno.pdb
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.AssemblyInfoInputs.cache
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.AssemblyInfo.cs
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.csproj.CoreCompileInputs.cache
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.dll
+D:\csharp\metodocomretorno\obj\Debug\net8.0\refint\metodocomretorno.dll
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.pdb
+D:\csharp\metodocomretorno\obj\Debug\net8.0\metodocomretorno.genruntimeconfig.cache
+D:\csharp\metodocomretorno\obj\Debug\net8.0\ref\metodocomretorno.dll

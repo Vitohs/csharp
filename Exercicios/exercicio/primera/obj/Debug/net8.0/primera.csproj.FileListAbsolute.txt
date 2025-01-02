@@ -1,0 +1,14 @@
+E:\csharp\exercicio\primera\bin\Debug\net8.0\primera.exe
+E:\csharp\exercicio\primera\bin\Debug\net8.0\primera.deps.json
+E:\csharp\exercicio\primera\bin\Debug\net8.0\primera.runtimeconfig.json
+E:\csharp\exercicio\primera\bin\Debug\net8.0\primera.dll
+E:\csharp\exercicio\primera\bin\Debug\net8.0\primera.pdb
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.AssemblyInfoInputs.cache
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.AssemblyInfo.cs
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.csproj.CoreCompileInputs.cache
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.dll
+E:\csharp\exercicio\primera\obj\Debug\net8.0\refint\primera.dll
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.pdb
+E:\csharp\exercicio\primera\obj\Debug\net8.0\primera.genruntimeconfig.cache
+E:\csharp\exercicio\primera\obj\Debug\net8.0\ref\primera.dll

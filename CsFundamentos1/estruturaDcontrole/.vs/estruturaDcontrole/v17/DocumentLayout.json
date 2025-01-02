@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\csharp\\estruturaDcontrole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE68178-5C37-4787-8916-1D8048F3DBDE}|..\\for 2\\for 2.csproj|e:\\csharp\\for 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62550BE-10E0-48E5-ACDD-DDE10F8210D3}|..\\forzada\\forzada.csproj|e:\\csharp\\forzada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5BF1EF-3CD0-4247-B5C3-9D00692CFB36}|..\\while2\\while2.csproj|e:\\csharp\\while2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30A0B1F-9891-45D4-BF36-7AD97BA62CD6}|..\\while\\while.csproj|e:\\csharp\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5956F1DF-E624-407A-9E75-4F381E28A968}|..\\dowhile\\dowhile.csproj|e:\\csharp\\dowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E95947-606A-43C0-BF54-9E512346DA90}|..\\goto\u0026label\\goto\u0026label.csproj|e:\\csharp\\goto\u0026label\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30A0B1F-9891-45D4-BF36-7AD97BA62CD6}|..\\while\\while.csproj|e:\\csharp\\while\\while.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83D7E78-F52F-431A-8C0E-C844454E7188}|..\\switchzada\\switchzada.csproj|e:\\csharp\\switchzada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F38436-A611-4C17-8B96-6FBE0A48BF6B}|estruturaDcontrole.csproj|e:\\csharp\\estruturadcontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F38436-A611-4C17-8B96-6FBE0A48BF6B}|estruturaDcontrole.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\for 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\for 2\\Program.cs",
+              "ToolTip": "E:\\csharp\\for 2\\Program.cs",
+              "RelativeToolTip": "..\\for 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:40:12.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\forzada\\Program.cs",
+              "RelativeDocumentMoniker": "..\\forzada\\Program.cs",
+              "ToolTip": "E:\\csharp\\forzada\\Program.cs",
+              "RelativeToolTip": "..\\forzada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:06:45.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\dowhile\\Program.cs",
+              "RelativeDocumentMoniker": "..\\dowhile\\Program.cs",
+              "ToolTip": "E:\\csharp\\dowhile\\Program.cs",
+              "RelativeToolTip": "..\\dowhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T22:40:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\while2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\while2\\Program.cs",
+              "ToolTip": "E:\\csharp\\while2\\Program.cs",
+              "RelativeToolTip": "..\\while2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:29:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\goto\u0026label\\Program.cs",
+              "RelativeDocumentMoniker": "..\\goto\u0026label\\Program.cs",
+              "ToolTip": "E:\\csharp\\goto\u0026label\\Program.cs",
+              "RelativeToolTip": "..\\goto\u0026label\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:15:49.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "while.csproj",
+              "DocumentMoniker": "E:\\csharp\\while\\while.csproj",
+              "RelativeDocumentMoniker": "..\\while\\while.csproj",
+              "ToolTip": "E:\\csharp\\while\\while.csproj",
+              "RelativeToolTip": "..\\while\\while.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T17:14:41.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\while\\Program.cs",
+              "RelativeDocumentMoniker": "..\\while\\Program.cs",
+              "ToolTip": "E:\\csharp\\while\\Program.cs",
+              "RelativeToolTip": "..\\while\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:13:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\switchzada\\Program.cs",
+              "RelativeDocumentMoniker": "..\\switchzada\\Program.cs",
+              "ToolTip": "E:\\csharp\\switchzada\\Program.cs",
+              "RelativeToolTip": "..\\switchzada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:21:06.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\csharp\\estruturaDcontrole\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\csharp\\estruturaDcontrole\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:08:01.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

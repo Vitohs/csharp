@@ -1,0 +1,4 @@
+D:\csharp\Construtor\obj\Debug\net8.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfoInputs.cache
+D:\csharp\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfo.cs
+D:\csharp\Construtor\obj\Debug\net8.0\Construtor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\csharp\while2\bin\Debug\net8.0\while2.exe
+E:\csharp\while2\bin\Debug\net8.0\while2.deps.json
+E:\csharp\while2\bin\Debug\net8.0\while2.runtimeconfig.json
+E:\csharp\while2\bin\Debug\net8.0\while2.dll
+E:\csharp\while2\bin\Debug\net8.0\while2.pdb
+E:\csharp\while2\obj\Debug\net8.0\while2.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\while2\obj\Debug\net8.0\while2.AssemblyInfoInputs.cache
+E:\csharp\while2\obj\Debug\net8.0\while2.AssemblyInfo.cs
+E:\csharp\while2\obj\Debug\net8.0\while2.csproj.CoreCompileInputs.cache
+E:\csharp\while2\obj\Debug\net8.0\while2.dll
+E:\csharp\while2\obj\Debug\net8.0\refint\while2.dll
+E:\csharp\while2\obj\Debug\net8.0\while2.pdb
+E:\csharp\while2\obj\Debug\net8.0\while2.genruntimeconfig.cache
+E:\csharp\while2\obj\Debug\net8.0\ref\while2.dll

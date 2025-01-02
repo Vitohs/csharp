@@ -1,0 +1,14 @@
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfoInputs.cache
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfo.cs
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+E:\csharp\CsFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.exe
+E:\csharp\CsFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.deps.json
+E:\csharp\CsFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.runtimeconfig.json
+E:\csharp\CsFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.dll
+E:\csharp\CsFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.pdb
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.dll
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\refint\TiposDeDados1.dll
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.pdb
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.genruntimeconfig.cache
+E:\csharp\CsFundamentos1\TiposDeDados1\obj\Debug\net8.0\ref\TiposDeDados1.dll

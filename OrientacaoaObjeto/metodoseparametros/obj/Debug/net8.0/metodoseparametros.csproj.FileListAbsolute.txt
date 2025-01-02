@@ -1,0 +1,14 @@
+E:\csharp\metodoseparametros\bin\Debug\net8.0\metodoseparametros.exe
+E:\csharp\metodoseparametros\bin\Debug\net8.0\metodoseparametros.deps.json
+E:\csharp\metodoseparametros\bin\Debug\net8.0\metodoseparametros.runtimeconfig.json
+E:\csharp\metodoseparametros\bin\Debug\net8.0\metodoseparametros.dll
+E:\csharp\metodoseparametros\bin\Debug\net8.0\metodoseparametros.pdb
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.AssemblyInfoInputs.cache
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.AssemblyInfo.cs
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.csproj.CoreCompileInputs.cache
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.dll
+E:\csharp\metodoseparametros\obj\Debug\net8.0\refint\metodoseparametros.dll
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.pdb
+E:\csharp\metodoseparametros\obj\Debug\net8.0\metodoseparametros.genruntimeconfig.cache
+E:\csharp\metodoseparametros\obj\Debug\net8.0\ref\metodoseparametros.dll

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.exe
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\bin\Debug\net8.0\ParametrosOpcionais.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\refint\ParametrosOpcionais.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ParametrosOpcionais\obj\Debug\net8.0\ref\ParametrosOpcionais.dll

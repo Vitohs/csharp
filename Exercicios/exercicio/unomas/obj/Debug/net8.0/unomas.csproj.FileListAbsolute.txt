@@ -1,0 +1,14 @@
+E:\csharp\exercicio\unomas\bin\Debug\net8.0\unomas.exe
+E:\csharp\exercicio\unomas\bin\Debug\net8.0\unomas.deps.json
+E:\csharp\exercicio\unomas\bin\Debug\net8.0\unomas.runtimeconfig.json
+E:\csharp\exercicio\unomas\bin\Debug\net8.0\unomas.dll
+E:\csharp\exercicio\unomas\bin\Debug\net8.0\unomas.pdb
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.AssemblyInfoInputs.cache
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.AssemblyInfo.cs
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.csproj.CoreCompileInputs.cache
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.dll
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\refint\unomas.dll
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.pdb
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\unomas.genruntimeconfig.cache
+E:\csharp\exercicio\unomas\obj\Debug\net8.0\ref\unomas.dll

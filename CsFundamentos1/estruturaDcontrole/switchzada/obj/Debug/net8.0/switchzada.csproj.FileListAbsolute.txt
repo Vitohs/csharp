@@ -1,0 +1,14 @@
+E:\csharp\switchzada\bin\Debug\net8.0\switchzada.exe
+E:\csharp\switchzada\bin\Debug\net8.0\switchzada.deps.json
+E:\csharp\switchzada\bin\Debug\net8.0\switchzada.runtimeconfig.json
+E:\csharp\switchzada\bin\Debug\net8.0\switchzada.dll
+E:\csharp\switchzada\bin\Debug\net8.0\switchzada.pdb
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.AssemblyInfoInputs.cache
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.AssemblyInfo.cs
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.csproj.CoreCompileInputs.cache
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.dll
+E:\csharp\switchzada\obj\Debug\net8.0\refint\switchzada.dll
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.pdb
+E:\csharp\switchzada\obj\Debug\net8.0\switchzada.genruntimeconfig.cache
+E:\csharp\switchzada\obj\Debug\net8.0\ref\switchzada.dll

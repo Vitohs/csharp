@@ -1,0 +1,14 @@
+E:\csharp\exercicio\dois espada\bin\Debug\net8.0\dois espada.exe
+E:\csharp\exercicio\dois espada\bin\Debug\net8.0\dois espada.deps.json
+E:\csharp\exercicio\dois espada\bin\Debug\net8.0\dois espada.runtimeconfig.json
+E:\csharp\exercicio\dois espada\bin\Debug\net8.0\dois espada.dll
+E:\csharp\exercicio\dois espada\bin\Debug\net8.0\dois espada.pdb
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.AssemblyInfoInputs.cache
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.AssemblyInfo.cs
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.csproj.CoreCompileInputs.cache
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.dll
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\refint\dois espada.dll
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.pdb
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\dois espada.genruntimeconfig.cache
+E:\csharp\exercicio\dois espada\obj\Debug\net8.0\ref\dois espada.dll

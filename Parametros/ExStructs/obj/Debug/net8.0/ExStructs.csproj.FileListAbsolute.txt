@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\bin\Debug\net8.0\ExStructs.exe
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\bin\Debug\net8.0\ExStructs.deps.json
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\bin\Debug\net8.0\ExStructs.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\bin\Debug\net8.0\ExStructs.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\bin\Debug\net8.0\ExStructs.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\refint\ExStructs.dll
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.pdb
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ExStructs.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\Parametros\ExStructs\obj\Debug\net8.0\ref\ExStructs.dll

@@ -1,0 +1,14 @@
+D:\csharp\Exercicios\ExDretorno\bin\Debug\net8.0\ExDretorno.exe
+D:\csharp\Exercicios\ExDretorno\bin\Debug\net8.0\ExDretorno.deps.json
+D:\csharp\Exercicios\ExDretorno\bin\Debug\net8.0\ExDretorno.runtimeconfig.json
+D:\csharp\Exercicios\ExDretorno\bin\Debug\net8.0\ExDretorno.dll
+D:\csharp\Exercicios\ExDretorno\bin\Debug\net8.0\ExDretorno.pdb
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.AssemblyInfoInputs.cache
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.AssemblyInfo.cs
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.csproj.CoreCompileInputs.cache
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.dll
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\refint\ExDretorno.dll
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.pdb
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ExDretorno.genruntimeconfig.cache
+D:\csharp\Exercicios\ExDretorno\obj\Debug\net8.0\ref\ExDretorno.dll

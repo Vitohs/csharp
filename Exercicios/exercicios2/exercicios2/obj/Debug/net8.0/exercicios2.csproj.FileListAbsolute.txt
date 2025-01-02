@@ -1,0 +1,14 @@
+E:\csharp\exercicios2\exercicios2\bin\Debug\net8.0\exercicios2.exe
+E:\csharp\exercicios2\exercicios2\bin\Debug\net8.0\exercicios2.deps.json
+E:\csharp\exercicios2\exercicios2\bin\Debug\net8.0\exercicios2.runtimeconfig.json
+E:\csharp\exercicios2\exercicios2\bin\Debug\net8.0\exercicios2.dll
+E:\csharp\exercicios2\exercicios2\bin\Debug\net8.0\exercicios2.pdb
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.AssemblyInfoInputs.cache
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.AssemblyInfo.cs
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.csproj.CoreCompileInputs.cache
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.dll
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\refint\exercicios2.dll
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.pdb
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\exercicios2.genruntimeconfig.cache
+E:\csharp\exercicios2\exercicios2\obj\Debug\net8.0\ref\exercicios2.dll
