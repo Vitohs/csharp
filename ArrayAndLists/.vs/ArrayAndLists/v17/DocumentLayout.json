@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE86CCE-DFDA-4640-A909-BF41CDDFBA8E}|ExercicioSete\\ExercicioSete.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\exerciciosete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE86CCE-DFDA-4640-A909-BF41CDDFBA8E}|ExercicioSete\\ExercicioSete.csproj|solutionrelative:exerciciosete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE86CCE-DFDA-4640-A909-BF41CDDFBA8E}|ExercicioSete\\ExercicioSete.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\exerciciosete\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE86CCE-DFDA-4640-A909-BF41CDDFBA8E}|ExercicioSete\\ExercicioSete.csproj|solutionrelative:exerciciosete\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69DD9AE-8C1D-4143-9D29-86C6327A094D}|Indexadores\\Indexadores.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\indexadores\\times.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69DD9AE-8C1D-4143-9D29-86C6327A094D}|Indexadores\\Indexadores.csproj|solutionrelative:indexadores\\times.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733F2DC-6C2D-475B-9BDD-84D1CB100472}|ExercicioSeis\\ExercicioSeis.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\exercicioseis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733F2DC-6C2D-475B-9BDD-84D1CB100472}|ExercicioSeis\\ExercicioSeis.csproj|solutionrelative:exercicioseis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF85E893-A292-4500-8C60-53B63E08B3E3}|ExercicioCinco\\ExercicioCinco.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\exerciciocinco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF85E893-A292-4500-8C60-53B63E08B3E3}|ExercicioCinco\\ExercicioCinco.csproj|solutionrelative:exerciciocinco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF85E893-A292-4500-8C60-53B63E08B3E3}|ExercicioCinco\\ExercicioCinco.csproj|c:\\users\\victor\\desktop\\csharp\\arrayandlists\\exerciciocinco\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF85E893-A292-4500-8C60-53B63E08B3E3}|ExercicioCinco\\ExercicioCinco.csproj|solutionrelative:exerciciocinco\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Times.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\Indexadores\\Times.cs",
+              "RelativeDocumentMoniker": "Indexadores\\Times.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\Indexadores\\Times.cs",
+              "RelativeToolTip": "Indexadores\\Times.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:13:53.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSete\\Escola.cs",
+              "RelativeDocumentMoniker": "ExercicioSete\\Escola.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSete\\Escola.cs",
+              "RelativeToolTip": "ExercicioSete\\Escola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:10:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSete\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioSete\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSete\\Program.cs",
+              "RelativeToolTip": "ExercicioSete\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:09:10.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSeis\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioSeis\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioSeis\\Program.cs",
+              "RelativeToolTip": "ExercicioSeis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:58:49.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioCinco\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioCinco\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioCinco\\Program.cs",
+              "RelativeToolTip": "ExercicioCinco\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:33:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioCinco\\Produtos.cs",
+              "RelativeDocumentMoniker": "ExercicioCinco\\Produtos.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ArrayAndLists\\ExercicioCinco\\Produtos.cs",
+              "RelativeToolTip": "ExercicioCinco\\Produtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:33:10.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

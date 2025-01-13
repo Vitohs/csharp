@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\bin\Debug\net8.0\RamdomClass.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\bin\Debug\net8.0\RamdomClass.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\bin\Debug\net8.0\RamdomClass.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\bin\Debug\net8.0\RamdomClass.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\bin\Debug\net8.0\RamdomClass.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\refint\RamdomClass.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\RamdomClass.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\RamdomClass\obj\Debug\net8.0\ref\RamdomClass.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\bin\Debug\net8.0\List.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\bin\Debug\net8.0\List.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\bin\Debug\net8.0\List.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\bin\Debug\net8.0\List.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\refint\List.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\List\obj\Debug\net8.0\ref\List.dll

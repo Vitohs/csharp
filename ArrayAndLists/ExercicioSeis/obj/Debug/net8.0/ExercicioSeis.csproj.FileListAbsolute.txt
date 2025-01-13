@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\bin\Debug\net8.0\ExercicioSeis.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\bin\Debug\net8.0\ExercicioSeis.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\bin\Debug\net8.0\ExercicioSeis.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\bin\Debug\net8.0\ExercicioSeis.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\bin\Debug\net8.0\ExercicioSeis.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\refint\ExercicioSeis.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ExercicioSeis.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSeis\obj\Debug\net8.0\ref\ExercicioSeis.dll

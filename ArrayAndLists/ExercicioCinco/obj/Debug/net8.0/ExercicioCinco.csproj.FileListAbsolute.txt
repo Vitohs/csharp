@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\bin\Debug\net8.0\ExercicioCinco.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\bin\Debug\net8.0\ExercicioCinco.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\bin\Debug\net8.0\ExercicioCinco.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\bin\Debug\net8.0\ExercicioCinco.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\bin\Debug\net8.0\ExercicioCinco.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\refint\ExercicioCinco.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ExercicioCinco.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioCinco\obj\Debug\net8.0\ref\ExercicioCinco.dll

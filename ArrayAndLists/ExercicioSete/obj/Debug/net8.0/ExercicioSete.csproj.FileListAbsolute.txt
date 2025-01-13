@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\bin\Debug\net8.0\ExercicioSete.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\bin\Debug\net8.0\ExercicioSete.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\bin\Debug\net8.0\ExercicioSete.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\bin\Debug\net8.0\ExercicioSete.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\bin\Debug\net8.0\ExercicioSete.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\refint\ExercicioSete.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ExercicioSete.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioSete\obj\Debug\net8.0\ref\ExercicioSete.dll

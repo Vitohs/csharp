@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\bin\Debug\net8.0\MetodoFind.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\bin\Debug\net8.0\MetodoFind.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\bin\Debug\net8.0\MetodoFind.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\bin\Debug\net8.0\MetodoFind.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\bin\Debug\net8.0\MetodoFind.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\refint\MetodoFind.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\MetodoFind.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\MetodoFind\obj\Debug\net8.0\ref\MetodoFind.dll

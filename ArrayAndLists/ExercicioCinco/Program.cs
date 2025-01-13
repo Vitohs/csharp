@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using ExercicioCinco;
+List<Produtos> lista = new();
+lista.Add(new Produtos { Nome = "Clips", Preco = 3.95m });
+lista.Add(new Produtos { Nome = "Caneta", Preco = 5.99m });
+lista.Add(new Produtos { Nome = "Lapis", Preco = 4.15m });
+lista.Add(new Produtos { Nome = "Estojo", Preco = 6.99m });
+lista.Add(new Produtos { Nome = "Caderno", Preco = 7.75m });
+lista.Add(new Produtos { Nome = "Mochila", Preco = 22.99m });
+var novalista = lista.OrderBy(x => x.Nome).ToList();
+Produtos.Carrinho(novalista);
+Console.WriteLine("\nProdutos com preço menor que R$5,00");
+novalista.FindAll(x => x.Preco < 5).ForEach(x => Console.WriteLine($"Nome: {x.Nome} - Preço: R${x.Preco}"));
+Console.ReadKey();

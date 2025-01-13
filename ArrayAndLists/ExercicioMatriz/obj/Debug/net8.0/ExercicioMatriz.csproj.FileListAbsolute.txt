@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\bin\Debug\net8.0\ExercicioMatriz.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\refint\ExercicioMatriz.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioMatriz\obj\Debug\net8.0\ref\ExercicioMatriz.dll

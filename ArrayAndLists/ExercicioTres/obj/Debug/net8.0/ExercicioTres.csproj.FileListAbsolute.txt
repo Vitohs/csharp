@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\bin\Debug\net8.0\ExercicioTres.exe
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\bin\Debug\net8.0\ExercicioTres.deps.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\bin\Debug\net8.0\ExercicioTres.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\bin\Debug\net8.0\ExercicioTres.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\bin\Debug\net8.0\ExercicioTres.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\refint\ExercicioTres.dll
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.pdb
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ExercicioTres.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ArrayAndLists\ExercicioTres\obj\Debug\net8.0\ref\ExercicioTres.dll
