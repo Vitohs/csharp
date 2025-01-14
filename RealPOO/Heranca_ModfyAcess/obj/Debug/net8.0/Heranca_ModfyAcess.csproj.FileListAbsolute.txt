@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\bin\Debug\net8.0\Heranca_ModfyAcess.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\bin\Debug\net8.0\Heranca_ModfyAcess.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\bin\Debug\net8.0\Heranca_ModfyAcess.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\bin\Debug\net8.0\Heranca_ModfyAcess.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\bin\Debug\net8.0\Heranca_ModfyAcess.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\refint\Heranca_ModfyAcess.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\Heranca_ModfyAcess.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_ModfyAcess\obj\Debug\net8.0\ref\Heranca_ModfyAcess.dll

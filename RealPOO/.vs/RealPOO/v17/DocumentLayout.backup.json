@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}|Heranca_VirtualAndOverride\\Heranca_VirtualAndOverride.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_virtualandoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}|Heranca_VirtualAndOverride\\Heranca_VirtualAndOverride.csproj|solutionrelative:heranca_virtualandoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CEAF38-68B0-495E-9651-A4586AB2DC32}|Heranca_modifyNew\\Heranca_modifyNew.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_modifynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CEAF38-68B0-495E-9651-A4586AB2DC32}|Heranca_modifyNew\\Heranca_modifyNew.csproj|solutionrelative:heranca_modifynew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358BED1E-1AF1-496E-900E-0CD1BFA80C56}|Heranca_Object\\Heranca_Object.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358BED1E-1AF1-496E-900E-0CD1BFA80C56}|Heranca_Object\\Heranca_Object.csproj|solutionrelative:heranca_object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B451F9C3-B6D4-4EFB-8A71-4FF2A4F49826}|Heranca_Construtor\\Heranca_Construtor.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B451F9C3-B6D4-4EFB-8A71-4FF2A4F49826}|Heranca_Construtor\\Heranca_Construtor.csproj|solutionrelative:heranca_construtor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5529D233-98C3-4E52-9ECF-4559AA0DA55E}|Heranca_ModfyAcess\\Heranca_ModfyAcess.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_modfyacess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5529D233-98C3-4E52-9ECF-4559AA0DA55E}|Heranca_ModfyAcess\\Heranca_ModfyAcess.csproj|solutionrelative:heranca_modfyacess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|solutionrelative:heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|solutionrelative:heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}|Heranca\\Heranca.csproj|solutionrelative:heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_VirtualAndOverride\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_VirtualAndOverride\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_VirtualAndOverride\\Program.cs",
+              "RelativeToolTip": "Heranca_VirtualAndOverride\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:50:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_modifyNew\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_modifyNew\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_modifyNew\\Program.cs",
+              "RelativeToolTip": "Heranca_modifyNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:42:04.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Object\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_Object\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Object\\Program.cs",
+              "RelativeToolTip": "Heranca_Object\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:24:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Construtor\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_Construtor\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Construtor\\Program.cs",
+              "RelativeToolTip": "Heranca_Construtor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:12:44.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_ModfyAcess\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca_ModfyAcess\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_ModfyAcess\\Program.cs",
+              "RelativeToolTip": "Heranca_ModfyAcess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:48:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Professor.cs",
+              "RelativeDocumentMoniker": "Heranca\\Professor.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Professor.cs",
+              "RelativeToolTip": "Heranca\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:30:36.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Aluno.cs",
+              "RelativeDocumentMoniker": "Heranca\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Aluno.cs",
+              "RelativeToolTip": "Heranca\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:29:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Heranca\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Pessoa.cs",
+              "RelativeToolTip": "Heranca\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:27:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca\\Program.cs",
+              "RelativeToolTip": "Heranca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:25:03.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

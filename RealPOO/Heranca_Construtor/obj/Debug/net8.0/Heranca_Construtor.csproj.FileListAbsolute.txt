@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\bin\Debug\net8.0\Heranca_Construtor.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\bin\Debug\net8.0\Heranca_Construtor.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\bin\Debug\net8.0\Heranca_Construtor.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\bin\Debug\net8.0\Heranca_Construtor.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\bin\Debug\net8.0\Heranca_Construtor.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\refint\Heranca_Construtor.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\Heranca_Construtor.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_Construtor\obj\Debug\net8.0\ref\Heranca_Construtor.dll

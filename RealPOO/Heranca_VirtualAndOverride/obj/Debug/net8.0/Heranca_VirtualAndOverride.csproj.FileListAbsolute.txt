@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\bin\Debug\net8.0\Heranca_VirtualAndOverride.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\bin\Debug\net8.0\Heranca_VirtualAndOverride.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\bin\Debug\net8.0\Heranca_VirtualAndOverride.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\bin\Debug\net8.0\Heranca_VirtualAndOverride.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\bin\Debug\net8.0\Heranca_VirtualAndOverride.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\refint\Heranca_VirtualAndOverride.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\Heranca_VirtualAndOverride.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Heranca_VirtualAndOverride\obj\Debug\net8.0\ref\Heranca_VirtualAndOverride.dll
