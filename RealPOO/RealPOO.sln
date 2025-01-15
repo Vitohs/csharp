@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{2DF80A88-BD5A-46D1-9DE3-E1214D7DCEBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_ModfyAcess", "Heranca_ModfyAcess\Heranca_ModfyAcess.csproj", "{5529D233-98C3-4E52-9ECF-4559AA0DA55E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_ModfyAcess", "Heranca_ModfyAcess\Heranca_ModfyAcess.csproj", "{5529D233-98C3-4E52-9ECF-4559AA0DA55E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Construtor", "Heranca_Construtor\Heranca_Construtor.csproj", "{B451F9C3-B6D4-4EFB-8A71-4FF2A4F49826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Construtor", "Heranca_Construtor\Heranca_Construtor.csproj", "{B451F9C3-B6D4-4EFB-8A71-4FF2A4F49826}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Object", "Heranca_Object\Heranca_Object.csproj", "{358BED1E-1AF1-496E-900E-0CD1BFA80C56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_Object", "Heranca_Object\Heranca_Object.csproj", "{358BED1E-1AF1-496E-900E-0CD1BFA80C56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_modifyNew", "Heranca_modifyNew\Heranca_modifyNew.csproj", "{23CEAF38-68B0-495E-9651-A4586AB2DC32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_modifyNew", "Heranca_modifyNew\Heranca_modifyNew.csproj", "{23CEAF38-68B0-495E-9651-A4586AB2DC32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_VirtualAndOverride", "Heranca_VirtualAndOverride\Heranca_VirtualAndOverride.csproj", "{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca_VirtualAndOverride", "Heranca_VirtualAndOverride\Heranca_VirtualAndOverride.csproj", "{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifySealed", "ModifySealed\ModifySealed.csproj", "{D4210881-863B-49EE-82BC-1395E556FB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Exercicio1", "Heranca_Exercicio1\Heranca_Exercicio1.csproj", "{4995563B-7A62-4279-B211-29F4655EE565}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4210881-863B-49EE-82BC-1395E556FB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4210881-863B-49EE-82BC-1395E556FB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4210881-863B-49EE-82BC-1395E556FB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4210881-863B-49EE-82BC-1395E556FB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4995563B-7A62-4279-B211-29F4655EE565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995563B-7A62-4279-B211-29F4655EE565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995563B-7A62-4279-B211-29F4655EE565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995563B-7A62-4279-B211-29F4655EE565}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

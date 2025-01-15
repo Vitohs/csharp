@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\bin\Debug\net8.0\ModifySealed.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\bin\Debug\net8.0\ModifySealed.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\bin\Debug\net8.0\ModifySealed.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\bin\Debug\net8.0\ModifySealed.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\bin\Debug\net8.0\ModifySealed.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\refint\ModifySealed.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ModifySealed.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\ModifySealed\obj\Debug\net8.0\ref\ModifySealed.dll
