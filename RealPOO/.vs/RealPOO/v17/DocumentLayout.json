@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_exercicio1\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|solutionrelative:heranca_exercicio1\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_exercicio1\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|solutionrelative:heranca_exercicio1\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_exercicio1\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|solutionrelative:heranca_exercicio1\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4995563B-7A62-4279-B211-29F4655EE565}|Heranca_Exercicio1\\Heranca_Exercicio1.csproj|solutionrelative:heranca_exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}|Heranca_VirtualAndOverride\\Heranca_VirtualAndOverride.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_virtualandoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA28A724-F5F0-45EF-A4FB-A468117CBFF7}|Heranca_VirtualAndOverride\\Heranca_VirtualAndOverride.csproj|solutionrelative:heranca_virtualandoverride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77942A82-E6E8-4B30-9C33-EA0BA94AB2D5}|Heranca_Tips\\Heranca_Tips.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_tips\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{77942A82-E6E8-4B30-9C33-EA0BA94AB2D5}|Heranca_Tips\\Heranca_Tips.csproj|solutionrelative:heranca_tips\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ContaInvestimento.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\ContaInvestimento.cs",
-              "RelativeDocumentMoniker": "Heranca_Exercicio1\\ContaInvestimento.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\ContaInvestimento.cs",
-              "RelativeToolTip": "Heranca_Exercicio1\\ContaInvestimento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Circulo.cs",
+              "RelativeDocumentMoniker": "DownscatingUpscating\\Circulo.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Circulo.cs",
+              "RelativeToolTip": "DownscatingUpscating\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:40:15.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_VirtualAndOverride\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca_VirtualAndOverride\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_VirtualAndOverride\\Program.cs",
-              "RelativeToolTip": "Heranca_VirtualAndOverride\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:36:30.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContaPoupanca.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\ContaPoupanca.cs",
-              "RelativeDocumentMoniker": "Heranca_Exercicio1\\ContaPoupanca.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\ContaPoupanca.cs",
-              "RelativeToolTip": "Heranca_Exercicio1\\ContaPoupanca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:32:23.954Z",
+              "WhenOpened": "2025-01-16T18:57:53.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Banco.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\Banco.cs",
-              "RelativeDocumentMoniker": "Heranca_Exercicio1\\Banco.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\Banco.cs",
-              "RelativeToolTip": "Heranca_Exercicio1\\Banco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Title": "Forma.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Forma.cs",
+              "RelativeDocumentMoniker": "DownscatingUpscating\\Forma.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Forma.cs",
+              "RelativeToolTip": "DownscatingUpscating\\Forma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:16:51.668Z",
+              "WhenOpened": "2025-01-16T18:57:28.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Program.cs",
+              "RelativeDocumentMoniker": "DownscatingUpscating\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Program.cs",
+              "RelativeToolTip": "DownscatingUpscating\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:44:10.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\Program.cs",
-              "RelativeDocumentMoniker": "Heranca_Exercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Exercicio1\\Program.cs",
-              "RelativeToolTip": "Heranca_Exercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:15:26.432Z",
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Tips\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Heranca_Tips\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Tips\\ClassDiagram1.cd",
+              "RelativeToolTip": "Heranca_Tips\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-01-16T18:26:18.779Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

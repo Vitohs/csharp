@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Heranca_Tips.Gato" Collapsed="true">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.Animal" Collapsed="true">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.A" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>A.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.B" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>B.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.C" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.Mae" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mae.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.Filha" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.FilhaDaFilha" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilhaDaFilha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.Base" Collapsed="true">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Heranca_Tips.Altura" Collapsed="true">
+    <Position X="12.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Altura.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

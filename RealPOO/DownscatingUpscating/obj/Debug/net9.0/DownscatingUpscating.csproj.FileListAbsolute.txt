@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\bin\Debug\net9.0\DownscatingUpscating.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\bin\Debug\net9.0\DownscatingUpscating.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\bin\Debug\net9.0\DownscatingUpscating.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\bin\Debug\net9.0\DownscatingUpscating.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\bin\Debug\net9.0\DownscatingUpscating.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\refint\DownscatingUpscating.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\DownscatingUpscating.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\DownscatingUpscating\obj\Debug\net9.0\ref\DownscatingUpscating.dll

@@ -29,8 +29,8 @@ internal class ContaInvestimento : Banco
         {
             Saldo -= valor;
             decimal imposto = Saldo * taxaImposto;
-            Saldo -= imposto;
             Console.WriteLine($"Voce sacou R${Saldo} reais");
+            Saldo -= imposto;
         }
     }
 }
