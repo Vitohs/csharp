@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\bin\Debug\net9.0\Abstracao.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\bin\Debug\net9.0\Abstracao.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\bin\Debug\net9.0\Abstracao.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\bin\Debug\net9.0\Abstracao.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\bin\Debug\net9.0\Abstracao.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\refint\Abstracao.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\Abstracao.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Abstracao\obj\Debug\net9.0\ref\Abstracao.dll

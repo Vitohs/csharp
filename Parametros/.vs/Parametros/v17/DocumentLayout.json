@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{323F91D9-CB62-47D8-94C7-32DE4D08189C}|PartialClass\\PartialClass.csproj|c:\\users\\victor\\desktop\\csharp\\parametros\\partialclass\\minhapartialclassprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323F91D9-CB62-47D8-94C7-32DE4D08189C}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{323F91D9-CB62-47D8-94C7-32DE4D08189C}|PartialClass\\PartialClass.csproj|c:\\users\\victor\\desktop\\csharp\\parametros\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{323F91D9-CB62-47D8-94C7-32DE4D08189C}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4893D27-A898-4CD4-8E20-F3054A0A02B3}|TiposAnonimos\\TiposAnonimos.csproj|c:\\users\\victor\\desktop\\csharp\\parametros\\tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4893D27-A898-4CD4-8E20-F3054A0A02B3}|TiposAnonimos\\TiposAnonimos.csproj|solutionrelative:tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,48 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MinhaPartialClassProp.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\PartialClass\\MinhaPartialClassProp.cs",
-              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassProp.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\PartialClass\\MinhaPartialClassProp.cs",
-              "RelativeToolTip": "PartialClass\\MinhaPartialClassProp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:16:24.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\PartialClass\\Program.cs",
-              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\PartialClass\\Program.cs",
-              "RelativeToolTip": "PartialClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T15:12:01.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\TiposAnonimos\\Program.cs",
-              "RelativeDocumentMoniker": "TiposAnonimos\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\Parametros\\TiposAnonimos\\Program.cs",
-              "RelativeToolTip": "TiposAnonimos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T14:44:26.776Z"
             }
           ]
         }

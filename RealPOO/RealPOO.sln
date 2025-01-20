@@ -23,6 +23,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Tips", "Heranca_Tip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownscatingUpscating", "DownscatingUpscating\DownscatingUpscating.csproj", "{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operador_ISeAs", "Operador_ISeAs\Operador_ISeAs.csproj", "{365BE919-EDB7-4E3F-9442-D07F4E50CE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstracao", "Abstracao\Abstracao.csproj", "{CC87BDA2-3E29-44D4-8592-32A0C55512B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Interface", "Heranca_Interface\Heranca_Interface.csproj", "{52774158-7371-4D3A-8C2E-8DE87EE07EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca_Interface_Exercicio", "Heranca_Interface_Exercicio\Heranca_Interface_Exercicio.csproj", "{BC1B2180-E959-43DC-9683-71862F158D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composicao", "Composicao\Composicao.csproj", "{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agregacao", "Agregacao\Agregacao.csproj", "{54BBAADD-5279-4AE3-AD07-9DEE4C8DA75C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +81,30 @@ Global
 		{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365BE919-EDB7-4E3F-9442-D07F4E50CE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365BE919-EDB7-4E3F-9442-D07F4E50CE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365BE919-EDB7-4E3F-9442-D07F4E50CE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365BE919-EDB7-4E3F-9442-D07F4E50CE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC87BDA2-3E29-44D4-8592-32A0C55512B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC87BDA2-3E29-44D4-8592-32A0C55512B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC87BDA2-3E29-44D4-8592-32A0C55512B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC87BDA2-3E29-44D4-8592-32A0C55512B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52774158-7371-4D3A-8C2E-8DE87EE07EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52774158-7371-4D3A-8C2E-8DE87EE07EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52774158-7371-4D3A-8C2E-8DE87EE07EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52774158-7371-4D3A-8C2E-8DE87EE07EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1B2180-E959-43DC-9683-71862F158D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1B2180-E959-43DC-9683-71862F158D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1B2180-E959-43DC-9683-71862F158D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1B2180-E959-43DC-9683-71862F158D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BBAADD-5279-4AE3-AD07-9DEE4C8DA75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BBAADD-5279-4AE3-AD07-9DEE4C8DA75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BBAADD-5279-4AE3-AD07-9DEE4C8DA75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BBAADD-5279-4AE3-AD07-9DEE4C8DA75C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

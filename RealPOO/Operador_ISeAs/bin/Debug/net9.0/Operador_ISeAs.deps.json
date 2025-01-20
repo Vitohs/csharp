@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Operador_ISeAs/1.0.0": {
+        "runtime": {
+          "Operador_ISeAs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operador_ISeAs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

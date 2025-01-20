@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\andar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\andar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\downscatingupscating\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE55A98-BE5F-4BDB-9263-2884FE271BAF}|DownscatingUpscating\\DownscatingUpscating.csproj|solutionrelative:downscatingupscating\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77942A82-E6E8-4B30-9C33-EA0BA94AB2D5}|Heranca_Tips\\Heranca_Tips.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\heranca_tips\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{77942A82-E6E8-4B30-9C33-EA0BA94AB2D5}|Heranca_Tips\\Heranca_Tips.csproj|solutionrelative:heranca_tips\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\diagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\diagrama.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|c:\\users\\victor\\desktop\\csharp\\realpoo\\composicao\\nadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B541C19B-347C-4B3F-BCA8-B48409CBFCD8}|Composicao\\Composicao.csproj|solutionrelative:composicao\\nadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Circulo.cs",
-              "RelativeDocumentMoniker": "DownscatingUpscating\\Circulo.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Circulo.cs",
-              "RelativeToolTip": "DownscatingUpscating\\Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Nadar.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Nadar.cs",
+              "RelativeDocumentMoniker": "Composicao\\Nadar.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Nadar.cs",
+              "RelativeToolTip": "Composicao\\Nadar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T18:57:53.506Z",
+              "WhenOpened": "2025-01-20T21:27:09.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Forma.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Forma.cs",
-              "RelativeDocumentMoniker": "DownscatingUpscating\\Forma.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Forma.cs",
-              "RelativeToolTip": "DownscatingUpscating\\Forma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Andar.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Andar.cs",
+              "RelativeDocumentMoniker": "Composicao\\Andar.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Andar.cs",
+              "RelativeToolTip": "Composicao\\Andar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T18:57:28.559Z",
+              "WhenOpened": "2025-01-20T21:21:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diagrama.cd",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Diagrama.cd",
+              "RelativeDocumentMoniker": "Composicao\\Diagrama.cd",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Diagrama.cd",
+              "RelativeToolTip": "Composicao\\Diagrama.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-01-20T21:21:02.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Program.cs",
-              "RelativeDocumentMoniker": "DownscatingUpscating\\Program.cs",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\DownscatingUpscating\\Program.cs",
-              "RelativeToolTip": "DownscatingUpscating\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Composicao\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Program.cs",
+              "RelativeToolTip": "Composicao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T18:44:10.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Tips\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "Heranca_Tips\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Heranca_Tips\\ClassDiagram1.cd",
-              "RelativeToolTip": "Heranca_Tips\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-01-16T18:26:18.779Z",
+              "WhenOpened": "2025-01-20T21:10:35.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Peixe.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Peixe.cs",
+              "RelativeDocumentMoniker": "Composicao\\Peixe.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Peixe.cs",
+              "RelativeToolTip": "Composicao\\Peixe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:19:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Macaco.cs",
+              "RelativeDocumentMoniker": "Composicao\\Macaco.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Macaco.cs",
+              "RelativeToolTip": "Composicao\\Macaco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:19:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homem.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Homem.cs",
+              "RelativeDocumentMoniker": "Composicao\\Homem.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Homem.cs",
+              "RelativeToolTip": "Composicao\\Homem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:18:53.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Animal.cs",
+              "RelativeDocumentMoniker": "Composicao\\Animal.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\RealPOO\\Composicao\\Animal.cs",
+              "RelativeToolTip": "Composicao\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:17:56.422Z",
+              "EditorCaption": ""
             }
           ]
         }

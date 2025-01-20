@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\bin\Debug\net9.0\Operador_ISeAs.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\bin\Debug\net9.0\Operador_ISeAs.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\bin\Debug\net9.0\Operador_ISeAs.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\bin\Debug\net9.0\Operador_ISeAs.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\bin\Debug\net9.0\Operador_ISeAs.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\refint\Operador_ISeAs.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\Operador_ISeAs.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Operador_ISeAs\obj\Debug\net9.0\ref\Operador_ISeAs.dll
