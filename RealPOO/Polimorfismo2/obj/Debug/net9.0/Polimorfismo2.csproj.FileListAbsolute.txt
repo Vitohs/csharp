@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\bin\Debug\net9.0\Polimorfismo2.exe
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\bin\Debug\net9.0\Polimorfismo2.deps.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\bin\Debug\net9.0\Polimorfismo2.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\bin\Debug\net9.0\Polimorfismo2.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\bin\Debug\net9.0\Polimorfismo2.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.sourcelink.json
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\refint\Polimorfismo2.dll
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.pdb
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\Polimorfismo2.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\RealPOO\Polimorfismo2\obj\Debug\net9.0\ref\Polimorfismo2.dll
