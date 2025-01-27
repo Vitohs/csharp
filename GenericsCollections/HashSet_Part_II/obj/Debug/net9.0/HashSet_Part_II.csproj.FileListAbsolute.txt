@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\bin\Debug\net9.0\HashSet_Part_II.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\bin\Debug\net9.0\HashSet_Part_II.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\bin\Debug\net9.0\HashSet_Part_II.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\bin\Debug\net9.0\HashSet_Part_II.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\bin\Debug\net9.0\HashSet_Part_II.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\refint\HashSet_Part_II.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\HashSet_Part_II.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\HashSet_Part_II\obj\Debug\net9.0\ref\HashSet_Part_II.dll

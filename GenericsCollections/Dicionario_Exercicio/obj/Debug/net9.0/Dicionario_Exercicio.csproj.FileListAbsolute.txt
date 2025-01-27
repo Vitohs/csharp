@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\bin\Debug\net9.0\Dicionario_Exercicio.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\bin\Debug\net9.0\Dicionario_Exercicio.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\bin\Debug\net9.0\Dicionario_Exercicio.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\bin\Debug\net9.0\Dicionario_Exercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\bin\Debug\net9.0\Dicionario_Exercicio.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\refint\Dicionario_Exercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\Dicionario_Exercicio.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Dicionario_Exercicio\obj\Debug\net9.0\ref\Dicionario_Exercicio.dll

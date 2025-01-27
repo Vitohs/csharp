@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\bin\Debug\net9.0\SortedDicionario.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\bin\Debug\net9.0\SortedDicionario.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\bin\Debug\net9.0\SortedDicionario.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\bin\Debug\net9.0\SortedDicionario.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\bin\Debug\net9.0\SortedDicionario.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\refint\SortedDicionario.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\SortedDicionario.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedDicionario\obj\Debug\net9.0\ref\SortedDicionario.dll

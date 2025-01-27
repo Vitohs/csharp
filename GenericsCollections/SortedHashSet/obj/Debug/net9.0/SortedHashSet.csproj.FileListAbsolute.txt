@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\bin\Debug\net9.0\SortedHashSet.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\bin\Debug\net9.0\SortedHashSet.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\bin\Debug\net9.0\SortedHashSet.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\bin\Debug\net9.0\SortedHashSet.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\bin\Debug\net9.0\SortedHashSet.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\refint\SortedHashSet.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\SortedHashSet.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\SortedHashSet\obj\Debug\net9.0\ref\SortedHashSet.dll

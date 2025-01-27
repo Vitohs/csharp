@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\bin\Debug\net9.0\GetHashCodeAndEquals.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\bin\Debug\net9.0\GetHashCodeAndEquals.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\bin\Debug\net9.0\GetHashCodeAndEquals.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\bin\Debug\net9.0\GetHashCodeAndEquals.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\bin\Debug\net9.0\GetHashCodeAndEquals.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\refint\GetHashCodeAndEquals.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\GetHashCodeAndEquals.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\GetHashCodeAndEquals\obj\Debug\net9.0\ref\GetHashCodeAndEquals.dll
