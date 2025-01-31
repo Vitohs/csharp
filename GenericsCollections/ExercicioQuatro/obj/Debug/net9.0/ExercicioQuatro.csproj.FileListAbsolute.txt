@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\bin\Debug\net9.0\ExercicioQuatro.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\bin\Debug\net9.0\ExercicioQuatro.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\bin\Debug\net9.0\ExercicioQuatro.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\bin\Debug\net9.0\ExercicioQuatro.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\bin\Debug\net9.0\ExercicioQuatro.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\refint\ExercicioQuatro.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ExercicioQuatro.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioQuatro\obj\Debug\net9.0\ref\ExercicioQuatro.dll

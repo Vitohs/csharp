@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using StackUndo;
+var editor = new EditorTexto();
+
+editor.DigitarChar('O');
+editor.DigitarChar(' ');
+editor.DigitarChar('P');
+editor.DigitarChar('A');
+editor.DigitarChar('L');
+editor.DigitarChar('M');
+editor.DigitarChar('E');
+editor.DigitarChar('I');
+editor.DigitarChar('R');
+editor.DigitarChar('A');
+editor.DigitarChar('S');
+editor.DigitarChar(' ');
+editor.DigitarChar('N');
+editor.DigitarChar('A');
+editor.DigitarChar('O');
+editor.DigitarChar(' ');
+editor.DigitarChar('T');
+editor.DigitarChar('E');
+editor.DigitarChar('M');
+editor.DigitarChar(' ');
+editor.DigitarChar('M');
+editor.DigitarChar('U');
+editor.DigitarChar('N');
+editor.DigitarChar('D');
+editor.DigitarChar('I');
+editor.DigitarChar('A');
+editor.DigitarChar('L');
+//editor.Undo();
+
+Console.ReadKey();

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\bin\Debug\net9.0\StackUndo.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\bin\Debug\net9.0\StackUndo.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\bin\Debug\net9.0\StackUndo.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\bin\Debug\net9.0\StackUndo.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\bin\Debug\net9.0\StackUndo.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\refint\StackUndo.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\StackUndo.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\StackUndo\obj\Debug\net9.0\ref\StackUndo.dll

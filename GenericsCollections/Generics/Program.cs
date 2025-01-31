@@ -17,7 +17,7 @@ string f = "teste";
 //comparando
 Teste.Comparar(a, b);
 Teste.Comparar(c, d);
-Teste.Comparar(e, f);
+//Teste.Comparar(e, f);
 //novo metodo
 Teste.Comparar2(a, c);
 //se eu quiser comparar 2 strings ja nao iria dar, eu precisaria fazer sobrecarga do metodo

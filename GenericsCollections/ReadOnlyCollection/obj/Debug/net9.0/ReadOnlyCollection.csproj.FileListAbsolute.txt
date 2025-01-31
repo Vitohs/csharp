@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\bin\Debug\net9.0\ReadOnlyCollection.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\bin\Debug\net9.0\ReadOnlyCollection.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\bin\Debug\net9.0\ReadOnlyCollection.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\bin\Debug\net9.0\ReadOnlyCollection.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\bin\Debug\net9.0\ReadOnlyCollection.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\refint\ReadOnlyCollection.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ReadOnlyCollection.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ReadOnlyCollection\obj\Debug\net9.0\ref\ReadOnlyCollection.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\bin\Debug\net9.0\ExercicioZero.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\bin\Debug\net9.0\ExercicioZero.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\bin\Debug\net9.0\ExercicioZero.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\bin\Debug\net9.0\ExercicioZero.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\bin\Debug\net9.0\ExercicioZero.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\refint\ExercicioZero.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ExercicioZero.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioZero\obj\Debug\net9.0\ref\ExercicioZero.dll

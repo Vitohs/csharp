@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortedHashSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e850976ffef3c402fc181bab969927e123acd36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8789ef3ce2795193159979954a229500fc363078")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortedHashSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortedHashSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

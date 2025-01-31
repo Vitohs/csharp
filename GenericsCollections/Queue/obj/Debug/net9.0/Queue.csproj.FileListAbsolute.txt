@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\bin\Debug\net9.0\Queue.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\bin\Debug\net9.0\Queue.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\bin\Debug\net9.0\Queue.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\bin\Debug\net9.0\Queue.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\bin\Debug\net9.0\Queue.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\refint\Queue.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\Queue.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\Queue\obj\Debug\net9.0\ref\Queue.dll

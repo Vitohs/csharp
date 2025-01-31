@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\bin\Debug\net9.0\QueueExercicio.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\bin\Debug\net9.0\QueueExercicio.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\bin\Debug\net9.0\QueueExercicio.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\bin\Debug\net9.0\QueueExercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\bin\Debug\net9.0\QueueExercicio.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\refint\QueueExercicio.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\QueueExercicio.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\QueueExercicio\obj\Debug\net9.0\ref\QueueExercicio.dll

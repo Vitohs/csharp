@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\bin\Debug\net9.0\ExercicioUm.exe
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\bin\Debug\net9.0\ExercicioUm.deps.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\bin\Debug\net9.0\ExercicioUm.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\bin\Debug\net9.0\ExercicioUm.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\bin\Debug\net9.0\ExercicioUm.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.sourcelink.json
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\refint\ExercicioUm.dll
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.pdb
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ExercicioUm.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\GenericsCollections\ExercicioUm\obj\Debug\net9.0\ref\ExercicioUm.dll
