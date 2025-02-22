@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{741253D1-6590-4E65-99A0-70474C78AFD4}|exercicio\\exercicio.csproj|c:\\users\\victor\\desktop\\csharp\\genericscollections\\exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741253D1-6590-4E65-99A0-70474C78AFD4}|exercicio\\exercicio.csproj|solutionrelative:exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6EAF5FF-25BC-46B3-B539-871EBB0826CB}|ExercicioQuatro\\ExercicioQuatro.csproj|c:\\users\\victor\\desktop\\csharp\\genericscollections\\exercicioquatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6EAF5FF-25BC-46B3-B539-871EBB0826CB}|ExercicioQuatro\\ExercicioQuatro.csproj|solutionrelative:exercicioquatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\exercicio\\Program.cs",
+              "RelativeToolTip": "exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:44:31.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\ExercicioQuatro\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioQuatro\\Program.cs",
@@ -34,12 +55,11 @@
               "RelativeToolTip": "ExercicioQuatro\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:29:56.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T12:29:56.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\ExercicioDois\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioDois\\Program.cs",
@@ -47,16 +67,11 @@
               "RelativeToolTip": "ExercicioDois\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T12:24:43.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-01-31T12:24:43.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\GenericsCollections\\ExercicioTres\\Program.cs",
               "RelativeDocumentMoniker": "ExercicioTres\\Program.cs",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "ExercicioTres\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T02:30:16.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T02:30:16.679Z"
             }
           ]
         }

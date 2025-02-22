@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\bin\Debug\net9.0\FiltroException.exe
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\bin\Debug\net9.0\FiltroException.deps.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\bin\Debug\net9.0\FiltroException.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\bin\Debug\net9.0\FiltroException.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\bin\Debug\net9.0\FiltroException.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.sourcelink.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\refint\FiltroException.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\FiltroException.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\FiltroException\obj\Debug\net9.0\ref\FiltroException.dll

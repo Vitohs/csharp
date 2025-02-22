@@ -1,0 +1,10 @@
+﻿var HoraDeSair = DateTime.Today.AddHours(17).AddMinutes(30);
+var TempoAteCasa = TimeSpan.FromMinutes(30);
+var chegadaEmCasa = HoraDeSair.Add(TempoAteCasa);
+var tempoQueSaiu = DateTime.Today.AddHours(18).AddMinutes(09);
+var diferenca = tempoQueSaiu - HoraDeSair;
+var convertesecond = diferenca.TotalSeconds;
+Console.WriteLine(chegadaEmCasa);
+Console.WriteLine(tempoQueSaiu);
+Console.WriteLine(diferenca);
+Console.WriteLine(convertesecond);

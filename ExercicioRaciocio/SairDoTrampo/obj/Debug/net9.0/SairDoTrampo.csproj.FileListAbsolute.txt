@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\bin\Debug\net9.0\SairDoTrampo.exe
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\bin\Debug\net9.0\SairDoTrampo.deps.json
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\bin\Debug\net9.0\SairDoTrampo.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\bin\Debug\net9.0\SairDoTrampo.dll
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\bin\Debug\net9.0\SairDoTrampo.pdb
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.sourcelink.json
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.dll
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\refint\SairDoTrampo.dll
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.pdb
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\SairDoTrampo.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\ExercicioRaciocio\SairDoTrampo\obj\Debug\net9.0\ref\SairDoTrampo.dll

@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\bin\Debug\net9.0\TryCathFinally.exe
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\bin\Debug\net9.0\TryCathFinally.deps.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\bin\Debug\net9.0\TryCathFinally.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\bin\Debug\net9.0\TryCathFinally.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\bin\Debug\net9.0\TryCathFinally.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.sourcelink.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\refint\TryCathFinally.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\TryCathFinally.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\TryCathFinally\obj\Debug\net9.0\ref\TryCathFinally.dll

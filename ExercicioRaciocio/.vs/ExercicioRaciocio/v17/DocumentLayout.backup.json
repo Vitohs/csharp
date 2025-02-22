@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Desktop\\csharp\\ExercicioRaciocio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816BD7BB-AE97-430B-AFE1-4768D462A8AD}|SairDoTrampo\\SairDoTrampo.csproj|c:\\users\\victor\\desktop\\csharp\\exercicioraciocio\\sairdotrampo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BD7BB-AE97-430B-AFE1-4768D462A8AD}|SairDoTrampo\\SairDoTrampo.csproj|solutionrelative:sairdotrampo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C684604E-058A-47DD-800B-578DCC0022F0}|Album\\Album.csproj|c:\\users\\victor\\desktop\\csharp\\exercicioraciocio\\album\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684604E-058A-47DD-800B-578DCC0022F0}|Album\\Album.csproj|solutionrelative:album\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ExercicioRaciocio\\SairDoTrampo\\Program.cs",
+              "RelativeDocumentMoniker": "SairDoTrampo\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ExercicioRaciocio\\SairDoTrampo\\Program.cs*",
+              "RelativeToolTip": "SairDoTrampo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:00:01.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Desktop\\csharp\\ExercicioRaciocio\\Album\\Program.cs",
+              "RelativeDocumentMoniker": "Album\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Desktop\\csharp\\ExercicioRaciocio\\Album\\Program.cs",
+              "RelativeToolTip": "Album\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:54:33.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

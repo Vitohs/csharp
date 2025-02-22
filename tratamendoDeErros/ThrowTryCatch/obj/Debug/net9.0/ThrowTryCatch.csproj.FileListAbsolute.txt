@@ -1,0 +1,15 @@
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\bin\Debug\net9.0\ThrowTryCatch.exe
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\bin\Debug\net9.0\ThrowTryCatch.deps.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\bin\Debug\net9.0\ThrowTryCatch.runtimeconfig.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\bin\Debug\net9.0\ThrowTryCatch.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\bin\Debug\net9.0\ThrowTryCatch.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.AssemblyInfo.cs
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.sourcelink.json
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\refint\ThrowTryCatch.dll
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.pdb
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ThrowTryCatch.genruntimeconfig.cache
+C:\Users\Victor\Desktop\csharp\tratamendoDeErros\ThrowTryCatch\obj\Debug\net9.0\ref\ThrowTryCatch.dll
